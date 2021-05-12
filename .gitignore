@@ -1,51 +1,35 @@
-# Ignore list for Eagle, a PCB layout tool
+# Ignore the following types of files.
 
-# Backup files
-*.s#?
-*.b#?
-*.l#?
-*.b$?
-*.s$?
-*.l$?
+# Compiled source #
+###################
+*.exe
+*.o
+*.so
+*.obj
 
-# Eagle project file
-# It contains a serial number and references to the file structure
-# on your computer.
-# comment the following line if you want to have your project file included.
-eagle.epf
+# Eclipse specifics #
+###################
+*.cproject
+*.project
+Release
+Debug
+.settings
 
-# Autorouter files
-*.pro
-*.job
+# OS specifics #
+###################
+Thumbs.db
 
-# CAM files
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
+# C files, since it's not a repo for code #
+*.cpp
+*.c
+*.cc
 
-*.dri
-*.drl
-*.gpi
-*.pls
-*.ger
-*.xln
+# KiCad backup files #
+*.bak
+*.bck
 
-*.drd
-*.drd.*
+# Ignore KiCad rescue libs files #
+*rescue.lib
 
-*.s#*
-*.b#*
-
-*.info
-
-*.eps
-
-# file locks introduced since 7.x
-*.lck
+# Ignore KiCad footprint lib table files
+*fp-lib-table
