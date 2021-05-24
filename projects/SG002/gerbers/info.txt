@@ -1,0 +1,27 @@
+PCB name: SG002
+
+Material type: FR4
+Surface finish: HAL
+Soldermask color: green
+Silk color: white
+Board thickness: 1,6 mm
+Copper: 1oz (35 um)
+Board dimensions: 53,1 mm x 82,6 mm
+Spacing standard: 10mil/10mil
+
+Files:
+SG002-F.Cu.gtl - copper TOP
+SG002-F.Mask.gts - mask TOP
+SG002-F.SilkS.gto - silk TOP
+SG002-B.Cu.gbl - copper BOTTOM
+SG002-B.Mask.gbs - mask BOTTOM
+SG002-Edge.Cuts.gm1 - board layout
+
+Drill file (Excellon):
+SG002.drl
+
+Drill report file:
+SG002-drl.rpt
+
+Drill map file:
+SG002-drl_map.gbr
