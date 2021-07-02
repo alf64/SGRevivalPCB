@@ -1,0 +1,24 @@
+Drill report for C:\Users\bmudlaff\workspaces\kicad\SGRevivalPCB\projects\SG001\SG001.kicad_pcb
+Created on 2021-07-02 11:45:49
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'SG001.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,40mm  0,016"  (39 holes)
+    T2  0,50mm  0,020"  (91 holes)
+    T3  6,10mm  0,240"  (2 holes)
+
+    Total plated holes count 132
+
+
+Drill file 'SG001-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
