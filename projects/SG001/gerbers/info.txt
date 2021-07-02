@@ -6,7 +6,7 @@ Soldermask color: green
 Silk color: white
 Board thickness: 1,6 mm
 Copper: 1oz (35 um)
-Board dimensions: 83,6 mm x 40 mm
+Board dimensions: 83,6 mm x 45 mm
 Spacing standard: 8mil/8mil
 
 Files:
